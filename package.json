@@ -1,0 +1,24 @@
+{
+  "version": "1.0.1",
+  "name": "express-server",
+  "author": {
+    "name": "Mike Meloy",
+    "email": "meloymike@gmail.com"
+  },
+  "description": "Simple Express example",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bootstrap": "*",
+    "express": "^4.14.0",
+    "express-handlebars": "*",
+    "nedb": "^1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/night5415/nedb.git"
+  },
+  "readme": "",
+  "license": "MIT"
+}
